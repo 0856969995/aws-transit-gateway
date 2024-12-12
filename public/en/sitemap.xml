@@ -62,30 +62,6 @@
                 href="//localhost:1313/4-single-account-cross-region/4.1-preparation/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-cross-account-single-region/5.1-preparation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/5-cross-account-single-region/5.1-preparation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/5-cross-account-single-region/5.1-preparation/"
-                />
-  </url><url>
-    <loc>//localhost:1313/6-cross-account-cross-region/6.1-preparation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/6-cross-account-cross-region/6.1-preparation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/6-cross-account-cross-region/6.1-preparation/"
-                />
-  </url><url>
     <loc>//localhost:1313/1-introduction/1.2-routing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -108,30 +84,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/4-single-account-cross-region/4.2-configure-route-tables/"
-                />
-  </url><url>
-    <loc>//localhost:1313/5-cross-account-single-region/5.2-configure-route-tables/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/5-cross-account-single-region/5.2-configure-route-tables/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/5-cross-account-single-region/5.2-configure-route-tables/"
-                />
-  </url><url>
-    <loc>//localhost:1313/6-cross-account-cross-region/6.2-configure-route-tables/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/6-cross-account-cross-region/6.2-configure-route-tables/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/6-cross-account-cross-region/6.2-configure-route-tables/"
                 />
   </url><url>
     <loc>//localhost:1313/3-single-account-single-region/3.2-create-attachments/</loc>
@@ -206,40 +158,16 @@
                 href="//localhost:1313/4-single-account-cross-region/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-cross-account-single-region/</loc>
+    <loc>//localhost:1313/5-cleanup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-cross-account-single-region/"
+                href="//localhost:1313/vi/5-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-cross-account-single-region/"
-                />
-  </url><url>
-    <loc>//localhost:1313/6-cross-account-cross-region/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/6-cross-account-cross-region/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/6-cross-account-cross-region/"
-                />
-  </url><url>
-    <loc>//localhost:1313/7-cleanup/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/7-cleanup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/7-cleanup/"
+                href="//localhost:1313/5-cleanup/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/</loc>
